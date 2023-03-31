@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.login {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.head-bx {
+  border-left: 1px solid black;
+  height: 100%;
+}
+
+.heading-icon {
+  font-size: 30px;
+}
+
+.check-icon {
+  font-size: 24px;
+  color: green;
+}/*# sourceMappingURL=styles.css.map */
